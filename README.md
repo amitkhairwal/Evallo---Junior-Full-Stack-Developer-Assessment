@@ -1,5 +1,7 @@
 # Evallo Content Management System
 
+## [Assessment Link](https://evallojuniorfullstackdeveloper.vercel.app/)
+
 ## Overview
 This is a Evallo company assesment for Junior Full-stack Developer, allowing them to manage educational content through a single platform. This repository contains the code for the application, featuring a content submission form, content preview functionality.
 
